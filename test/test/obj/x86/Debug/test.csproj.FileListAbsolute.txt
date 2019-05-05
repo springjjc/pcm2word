@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\voice2word\test\test\bin\x86\Debug\test.exe.config
+C:\Users\Administrator\Desktop\voice2word\test\test\bin\x86\Debug\test.exe
+C:\Users\Administrator\Desktop\voice2word\test\test\bin\x86\Debug\test.pdb
+C:\Users\Administrator\Desktop\voice2word\test\test\obj\x86\Debug\test.exe
+C:\Users\Administrator\Desktop\voice2word\test\test\obj\x86\Debug\test.pdb

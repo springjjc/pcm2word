@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\voice2word\test\test\bin\Debug\test.exe.config
+C:\Users\Administrator\Desktop\voice2word\test\test\bin\Debug\test.exe
+C:\Users\Administrator\Desktop\voice2word\test\test\bin\Debug\test.pdb
+C:\Users\Administrator\Desktop\voice2word\test\test\obj\Debug\test.exe
+C:\Users\Administrator\Desktop\voice2word\test\test\obj\Debug\test.pdb
+C:\Users\Administrator\Desktop\voicedll\test\test\bin\Debug\test.exe.config
+C:\Users\Administrator\Desktop\voicedll\test\test\obj\Debug\test.exe
+C:\Users\Administrator\Desktop\voicedll\test\test\obj\Debug\test.pdb
+C:\Users\Administrator\Desktop\voicedll\test\test\bin\Debug\test.exe
+C:\Users\Administrator\Desktop\voicedll\test\test\bin\Debug\test.pdb
+C:\Users\Administrator\Desktop\voicedll\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
